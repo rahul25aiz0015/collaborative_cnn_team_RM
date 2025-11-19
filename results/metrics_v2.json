@@ -1,0 +1,11 @@
+{
+    "model_name": "ClassificationModel",
+    "timestamp": "2025-11-19T23:35:00Z",
+    "dataset_used": "Dog and Cat Redux",
+    "metrics": {
+        "accuracy": 0.8398,
+        "f1_score": 0.8537787513691127,
+        "precision": 0.7852585627938213,
+        "Recall": 0.9354
+    }
+}

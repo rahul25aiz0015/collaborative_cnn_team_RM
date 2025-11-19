@@ -1,0 +1,11 @@
+{
+    "model_name": "ClassificationModel",
+    "timestamp": "2025-11-19T21:35:00Z",
+    "dataset_used": "Dogs vs. Cats Redux: Kernels Edition",
+    "metrics": {
+        "accuracy": 0.5,
+        "f1_score": 0.6666666666666666,
+        "precision": 0.5,
+        "Recall": 1.0
+    }
+}

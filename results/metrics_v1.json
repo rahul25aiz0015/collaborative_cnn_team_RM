@@ -1,0 +1,11 @@
+{
+    "model_name": "ClassificationModel",
+    "timestamp": "2025-11-19T15:35:00Z",
+    "dataset_used": "Dog and Cat",
+    "metrics": {
+        "accuracy": 0.5002471576866041,
+        "f1_score": 0.6668863261943987,
+        "precision": 0.5002471576866041,
+        "Recall": 1.0
+    }
+}

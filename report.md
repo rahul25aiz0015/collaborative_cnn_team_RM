@@ -16,26 +16,16 @@ The final metrics were gathered by cross-testing Model v1 on User 2's dataset. (
 Cross-Test: Model v1 on User 2's Dataset (test_v1_user2.json)
 
 When Model v1 (trained by User 1) was tested on User 2's dataset, the results were as follows:
-
-Accuracy: 0.50
-
-Precision: 0.50
-
-Recall: 1.00 (100%)
-
-F1-Score: 0.67
-
-(Insert remaining metrics here, e.g.:)
+Accuracy: 50.00
+Precision: 50.00
+Recall: 100
+F1-Score: 67.66
 
 Cross-Test: Model v2 on User 1's Dataset (test_v2_user1.json)
-
-Accuracy: [Value]
-
-Precision: [Value]
-
-Recall: [Value]
-
-F1-Score: [Value]
+Accuracy : 86.55
+Precision: 81.19
+Recall   : 95.15
+F1-score : 87.62
 
 Observations on Generalization and Domain Shift
 The cross-test of Model v1 on User 2's dataset clearly demonstrates a severe case of domain shift.

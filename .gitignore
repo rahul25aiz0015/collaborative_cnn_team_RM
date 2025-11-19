@@ -1,6 +1,5 @@
 data/
 *.pth
-*.h5
 datasets/
 raw_data/
 *.hdf5
